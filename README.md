@@ -41,8 +41,9 @@
 
 ### 📌 Projects:
 
-- 🔹 [AWS Multi-Tier Architecture using Terraform](https://treasure-smelt-dd3.notion.site/AWS-Multi-Tier-Architecture-using-Terraform-1e82a9d6f04280b8815bdd81d7c4e342?pvs=4)
+- 🔸 [AWS Multi-Tier Architecture using Terraform](https://treasure-smelt-dd3.notion.site/AWS-Multi-Tier-Architecture-using-Terraform-1e82a9d6f04280b8815bdd81d7c4e342?pvs=4)
 - 🔸 [AWS Hub-and-Spoke Architecture](https://www.notion.so/AWS-Hub-and-Spoke-Architecture-1ed2a9d6f042809c8906cd4f2e918b76?pvs=4)
+- 🔸 [Docker Deployment on AWS using Ansible & Terraform](https://treasure-smelt-dd3.notion.site/Docker-Deployment-on-AWS-using-Ansible-Terraform-1fe2a9d6f042802296a1c2fd9823c480?pvs=4)
 
 ---
 
